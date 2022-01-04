@@ -5,7 +5,7 @@
 
 
 ### Links
-- [Live Site ](https://perezluismariano.github.io//)
+- [Live Site ](https://perezluismariano.github.io/Social-Proof-Section/)
 
 ### Built with
 - Semantic HTML5 markup
