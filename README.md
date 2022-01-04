@@ -1,7 +1,7 @@
 ## Frontend Mentor - Social Proof Section
 
 ### Screenshot
-![version-desk](design/desk.png)
+![version-desk](design/mine.png)
 
 
 ### Links
