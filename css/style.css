@@ -101,7 +101,7 @@ main .rating__created--stars span{
     background-repeat: no-repeat;
 
 }
-main .rating__created p{
+main .rating__created h4{
     width: 100%;
     height: 50%;
     font-size: 1.5rem;
@@ -169,10 +169,11 @@ main .comments__created:nth-child(3) .comments__created--photo{
     background-image: url(../images/image-anne.jpg);
 }
 
-main .comments__created div p:nth-child(2){
+main .comments__created div:nth-child(1) h6{
     font-weight: 700;
+    font-size: 1.4rem;
 }
-main .comments__created div p:nth-child(3){
+main .comments__created div:nth-child(1) p{
     color: var(--soft-pink);
 }
 
@@ -190,9 +191,10 @@ footer .attribution{
     flex-direction: row;
     gap: 10px;
 }
-footer .attribution p{
+footer .attribution h4{
     font-family: 'Bebas Neue', sans-serif;
     font-size: 1.5rem;
+    font-weight: 400;
     color: var(--light-grayish-magenta);
 }
 footer .attribution a{
@@ -291,7 +293,7 @@ footer .attribution a{
         background-repeat: no-repeat;
         background-position: center;
     }
-    main .rating__created p{
+    main .rating__created h4{
         width: 60%;
         height: auto;
         font-size: 1.3rem;
