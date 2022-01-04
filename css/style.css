@@ -191,7 +191,7 @@ footer .attribution{
     flex-direction: row;
     gap: 10px;
 }
-footer .attribution h4{
+footer .attribution h2{
     font-family: 'Bebas Neue', sans-serif;
     font-size: 1.5rem;
     font-weight: 400;
